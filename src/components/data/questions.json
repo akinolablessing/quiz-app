@@ -10,8 +10,18 @@
     "answer": "Mars"
   },
   {
-    "question": "Who is the president of America",
+    "question": "Who is the president of America?",
     "options": ["Joe Biden","Donald Trump","Barack Obama","George Bush"],
     "answer": "Donald Trump"
+  },
+  {
+    "question": "What is the purpose of useState in React?",
+    "options":["To fetch API data","To manage component state","To handle form validation","To apply styles"],
+    "answer":"To manage component state"
+  },
+  {
+    "question": "Which method is used to render React content to the DOM?",
+    "options":["React.render()","renderDOM()","ReactDOM.render()","createRootElement()"],
+    "answer":"ReactDOM.render()"
   }
 ]
