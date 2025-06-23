@@ -8,5 +8,10 @@
     "question": "Which planet is known as the Red Planet?",
     "options": ["Earth", "Mars", "Jupiter", "Saturn"],
     "answer": "Mars"
+  },
+  {
+    "question": "Who is the president of America",
+    "options": ["Joe Biden","Donald Trump","Barack Obama","George Bush"],
+    "answer": "Donald Trump"
   }
 ]
