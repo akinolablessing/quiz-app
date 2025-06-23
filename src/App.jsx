@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {useState } from "react";
 import Quiz from "../src/components/quiz/Quiz.jsx";
 import Result from "../src/components/result/Result.jsx";
 import questionsData from "../src/components/data/questions.json"
